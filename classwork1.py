@@ -1,6 +1,6 @@
 """
-Name: <D'Andre Brooks>
-Email: <db3306@nyu.edu>
+Name: D'Andre Brooks
+Email: db3306@nyu.edu
 """
 
 def make_dict(filename, sep=": "):
